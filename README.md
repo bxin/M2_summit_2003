@@ -78,4 +78,6 @@ and applied them in turn. Each time we apply a bending mode, we hold it for 37s.
 Check statistics of the EFD data from M2 functional tests in Mar 2020. Confirm that the M2 data stream has bandwidth of 20Hz.
 We also check the EFD latency and data loss rate.
 
-           
+### a24_position_sensors.ipynb
+We use the readings from the 12 displacement sensors to calculate the 6 DOFs of M2. The data used are the same as those used in a19_position_repeatability.ipynb. The 6x12 matrix used to convert the 12 displacement sensor readings into 6 M2 DOFs is saved in disp2dof.txt
+
