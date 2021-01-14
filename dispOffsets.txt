@@ -1,0 +1,13 @@
+# offset positions for IMS sensors. Unit is the same as in the binary output files.
+  15.526
+  15.687
+  14.820
+  16.990
+  14.427
+  16.702
+  14.980
+  16.886
+  14.749
+  17.688
+  14.889
+  16.521
